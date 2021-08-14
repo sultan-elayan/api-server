@@ -11,8 +11,8 @@
 
 ## deployment links
 
-- PR --> https://github.com/sultan-elayan/basic-api-server/pull/4
-- repo action --> https://github.com/sultan-elayan/basic-api-server/actions 
+- PR --> https://github.com/sultan-elayan/api-server/pull/1
+- repo action --> https://github.com/sultan-elayan/api-server/actions
 
 ## MUL
 
